@@ -1,6 +1,6 @@
 # Simple SwiftUI @State Demo
 ## Using @State and binding to create a UI that responds to user input to modify internal state
-**(Updated for Xcode 11 Beta 5)**
+**(Updated for Xcode 11 Beta 6)**
 
 This demo shows how simple it is to use SwiftUI’s **@State** and binding to create a UI that responds to user input to modify internal state.
 
